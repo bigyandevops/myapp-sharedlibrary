@@ -1,4 +1,3 @@
-def call(name,age){
+def call(name){
   echo "Hi ${name}, How are you?"
-  echo "Hi i am ${age}?"
 }
